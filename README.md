@@ -5,11 +5,12 @@
 ## ✨ Functionalities
 
 - 🌈 Login user.
-- 📦 Singup user.
+- 📦 Sing Up user.
 
 ## 🎨 Layout
 
-The application layout in figma, you can access by clicking on this link [link](https://www.figma.com/file/bFCO644LzxRZTqyGSLcgzI/Weekly-Planner?node-id=0%3A1&t=Lrpb1g9wJBDBzNiw-0):
+The application layout in figma, you can access by clicking on this
+ [Figma](https://www.figma.com/file/bFCO644LzxRZTqyGSLcgzI/Weekly-Planner?node-id=0%3A1&t=Lrpb1g9wJBDBzNiw-0):
 
 <figure>
   <figcaption>Page Login</figcaption>
@@ -19,7 +20,7 @@ The application layout in figma, you can access by clicking on this link [link](
 ## 🔨 Start Project
 
 ### Requirements
-[Chrome](https://www.google.com/intl/pt-BR/chrome/), [Node.js](https://nodejs.org/en/).
+[Chrome](https://www.google.com/intl/pt-BR/chrome/), [Node.js - 18.x](https://nodejs.org/en/).
 
 ```tsx
 # Clone project
